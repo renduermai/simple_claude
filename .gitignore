@@ -1,0 +1,25 @@
+# 密钥 - 绝对不要提交
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 本地数据与向量库持久化
+DATA/
+CHROMA_DATA/
+
+# IDE / 系统文件
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
