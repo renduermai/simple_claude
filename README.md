@@ -24,7 +24,7 @@
 该版本可以支持多用户会话，只要切换session_id即可，每个用户的会话记忆隔离
 但本版本只支持本次程序运行的记忆，程序关闭后，再次启用无上次会话记忆
 
-### 版本2
+### 版本3
 本地运行 simple_claude_chat.py 启动后
 打开网址：http://localhost:8000/langchainServer/playground/
 <img width="2145" height="1362" alt="image" src="https://github.com/user-attachments/assets/b0b0ac30-15ed-45d6-8ca9-c10fc1df4378" />
